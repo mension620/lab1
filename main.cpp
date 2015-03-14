@@ -22,7 +22,7 @@ int main() {
             num1 = num1 * 3 + 1;
             cout << num1 << " ";
         }
-        if (num1 % 2 == 0) {
+        else {
             num1 = num1 / 2;
             cout << num1 << " ";
         }
