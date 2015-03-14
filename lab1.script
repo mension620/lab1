@@ -1,0 +1,23 @@
+Script started on Sun Mar 15 00:48:42 2015
+[?1034hbash-3.2$ whoami; pwd
+DMS
+/Users/DMS/lab1
+bash-3.2$ git config -l
+user.name=mension620
+user.email=i54031181@mail.ncku.edu.tw
+color.ui=auto
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+core.ignorecase=true
+core.precomposeunicode=true
+remote.origin.url=https://github.com/mension620/lab1.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+bash-3.2$ git clone https://github.com/mension620/lab1.git
+Cloning into 'lab1'...
+warning: You appear to have cloned an empty repository.
+Checking connectivity... done.
+bash-3.2$ cat [K[K[K[Kexit
+
+Script done on Sun Mar 15 00:49:05 2015
